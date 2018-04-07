@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>秀米XIUMI图文排版教程</title>
+<style>
+#header {
+    background-color:LightSeaGreen;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    width:300px;
+    float:left;
+    padding:10px;	 	 
+}
+#footer {
+    background-color:LightSeaGreen;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+</style>
+</head>
+<html>
